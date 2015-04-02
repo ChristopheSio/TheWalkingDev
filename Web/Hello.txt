@@ -1,1 +1,3 @@
 Thrunk of PHP / JavaScript / HTML 5/ CSS
+
+Contributor Christophe Sonntag
